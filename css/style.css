@@ -99,17 +99,16 @@ footer {
 .banner-text {
     color: white;
     font-size: 30px;
-    position: absolute;
+    position: relative;
     bottom: 27%;
-    left: 17%;
-    right: 20%;
+    left: 1%;
+    right: 30%;
     text-align: left;
 }
 
 .content-1 {
     font-size: 40px;
     left: 17%;
-
 }
 
  .float img {
