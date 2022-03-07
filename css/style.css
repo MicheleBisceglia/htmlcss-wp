@@ -19,8 +19,6 @@
 
 header {
     height: 100px;
-    background-color: violet;
-    margin-top: 1em;
 }
 
 .mb-1 {
@@ -65,3 +63,12 @@ footer {
     height: 50px;
     background-color: blueviolet;
 } 
+
+/*secondo esercizio*/
+
+#logo {
+    height: 90px;
+    border-right: 1px solid gray;
+    padding-right: 1em;
+    padding-left: 2px;
+}
