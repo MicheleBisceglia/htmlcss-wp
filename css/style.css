@@ -40,18 +40,15 @@ header {
 
 .content {
     padding-bottom: 2em;
-    background-color: blue;
 }
 
 .content-1 {
     height: 80px;
-    background-color: aqua;
 }
 
 .float {
     float: left;
     height: 300px;
-    background-color: aqua;
 }
 
 .col-side {
@@ -99,6 +96,27 @@ footer {
     border: solid 3px gray;
 }
 
+.banner-text {
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    bottom: 27%;
+    left: 17%;
+    right: 20%;
+    text-align: left;
+}
 
-    
+.content-1 {
+    font-size: 40px;
+    left: 17%;
+
+}
+
+ .float img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+    border: solid 3px gray;
+ }   
 
