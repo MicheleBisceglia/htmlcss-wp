@@ -11,6 +11,10 @@
     clear: both;
 }
 
+html {
+    font-family: "montserrat".
+    sans-serif
+}
 .container {
     width: 80%;
     margin: 0 auto;
@@ -71,4 +75,17 @@ footer {
     border-right: 1px solid gray;
     padding-right: 1em;
     padding-left: 2px;
+}
+
+.list li{
+    padding-right: .5em;
+    display: inline-block;
+    color: grey;
+    margin-top: 1em;
+}
+
+.list a {
+    font-size: 1.2em;
+    text-decoration: none;
+    color: inherit;
 }
